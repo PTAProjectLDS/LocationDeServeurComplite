@@ -1,2 +1,0 @@
-# LocationDeServeurComplite
-All Folder
